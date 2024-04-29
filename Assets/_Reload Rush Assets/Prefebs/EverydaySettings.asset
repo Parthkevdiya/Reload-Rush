@@ -1,0 +1,58 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 1243907399, guid: a8d692317fe4a4e7bafa5a8d1b3ba2a5, type: 3}
+  m_Name: EverydaySettings
+  m_EditorClassIdentifier:
+  logLevel: 4
+  isTestMode: 0
+  adSettings:
+    initializeOnLoad: 1
+    showBannerOnLoad: 1
+    adInitializationOrder: 84
+    adInitializationDelay: 2
+    interstitialInterval: 30
+    resetTimerOnRewarded: 1
+    bannerPosition: 7
+    AOS_IS_AdUnitID: ce5cbc027596e8c9
+    AOS_RV_AdUnitID: 0c8a45734663d937
+    AOS_BN_AdUnitID: a35734f8b31ae364
+    AOS_IS_Backup_AdUnitID:
+    AOS_RV_Backup_AdUnitID:
+    AOS_BN_Backup_AdUnitID:
+    AOS_APS_AppID: d8b95a4e-20c7-4cc3-adf3-532948ba4892
+    AOS_APS_IS_SlotID: b8c744d7-c461-4c95-8e61-855b2e295131
+    AOS_APS_RV_SlotID: 4e90e589-f417-46ed-b01f-06e6defa3b41
+    AOS_APS_BN_SlotID: 86171c1d-15e5-4e50-ad5d-96dc8517fc38
+    AOS_PlayOnApiKey: a8bbc720-afcd-40f4-ad23-b168b5586243
+    AOS_AdvertyApiKey:
+    iOS_IS_AdUnitID: 3c071ada4c2a4d92
+    iOS_RV_AdUnitID: 37208255678f67ad
+    iOS_BN_AdUnitID: 224ee60bb21c8111
+    iOS_IS_Backup_AdUnitID:
+    iOS_RV_Backup_AdUnitID:
+    iOS_BN_Backup_AdUnitID:
+    iOS_APS_AppID: 8b45c521-d5a9-43ed-8a6b-c0326b744421
+    iOS_APS_IS_SlotID: 9b22f538-18a4-4e8a-b160-46c0ef38fda1
+    iOS_APS_RV_SlotID: 80e9bc56-647f-4e32-9f1a-5de7caf3a01d
+    iOS_APS_BN_SlotID: 54119cad-e1a9-4e9a-afd2-712b0991747a
+    iOS_PlayOnApiKey: e688448d-c214-4e00-9d13-c699ec973a78
+    iOS_storeID: 6448931411
+    iOS_AdvertyApiKey:
+    showPlayOnAfterInterstitial: 0
+    playOnInterstitialCount: 3
+    playOnPosition:
+      useScreenPositioning: 1
+      playOnLogoAnchor: 0
+      playOnLogoOffset: {x: 0, y: 150}
+      playOnLogoSize: 64
+    initializeAdvertyOnAwake: 0
+  appId:
